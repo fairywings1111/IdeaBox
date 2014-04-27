@@ -1,0 +1,25 @@
+# Logfile created on 2014-04-27 12:41:59 -0400 by logger.rb/31641
+I, [2014-04-27T12:41:59.709016 #331764]  INFO -- : 0:  rack (1.5.2) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/rack-1.5.2.gemspec
+I, [2014-04-27T12:42:01.375949 #331764]  INFO -- : 0:  rack-protection (1.5.3) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/rack-protection-1.5.3.gemspec
+I, [2014-04-27T12:42:01.376823 #331764]  INFO -- : 0:  tilt (1.4.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/tilt-1.4.1.gemspec
+I, [2014-04-27T12:42:07.496108 #331764]  INFO -- : 0:  sinatra (1.4.5) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/sinatra-1.4.5.gemspec
+I, [2014-04-27T12:42:07.500106 #331764]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
+I, [2014-04-27T12:45:59.225146 #336692]  INFO -- : 0:  rack (1.5.2) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/rack-1.5.2.gemspec
+I, [2014-04-27T12:45:59.226052 #336692]  INFO -- : 0:  rack-protection (1.5.3) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/rack-protection-1.5.3.gemspec
+I, [2014-04-27T12:45:59.237831 #336692]  INFO -- : 0:  tilt (1.4.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/tilt-1.4.1.gemspec
+I, [2014-04-27T12:45:59.249563 #336692]  INFO -- : 0:  sinatra (1.4.5) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/sinatra-1.4.5.gemspec
+I, [2014-04-27T12:45:59.268267 #336692]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
+I, [2014-04-27T12:49:34.991291 #341715]  INFO -- : 0:  rack (1.5.2) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/rack-1.5.2.gemspec
+I, [2014-04-27T12:49:34.992047 #341715]  INFO -- : 0:  rack-protection (1.5.3) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/rack-protection-1.5.3.gemspec
+I, [2014-04-27T12:49:34.992624 #341715]  INFO -- : 0:  tilt (1.4.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/tilt-1.4.1.gemspec
+I, [2014-04-27T12:49:34.993628 #341715]  INFO -- : 0:  sinatra (1.4.5) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/sinatra-1.4.5.gemspec
+I, [2014-04-27T12:49:34.994217 #341715]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
+I, [2014-04-27T14:12:38.194113 #435725]  INFO -- : 0:  backports (3.6.0) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/backports-3.6.0.gemspec
+I, [2014-04-27T14:12:40.135750 #435725]  INFO -- : 0:  multi_json (1.9.2) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-27T14:12:40.136609 #435725]  INFO -- : 0:  rack (1.5.2) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/rack-1.5.2.gemspec
+I, [2014-04-27T14:12:40.145280 #435725]  INFO -- : 0:  rack-protection (1.5.3) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/rack-protection-1.5.3.gemspec
+I, [2014-04-27T14:12:40.145915 #435725]  INFO -- : 0:  rack-test (0.6.2) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/rack-test-0.6.2.gemspec
+I, [2014-04-27T14:12:40.146513 #435725]  INFO -- : 0:  tilt (1.4.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/tilt-1.4.1.gemspec
+I, [2014-04-27T14:12:40.158140 #435725]  INFO -- : 0:  sinatra (1.4.5) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/sinatra-1.4.5.gemspec
+I, [2014-04-27T14:12:42.181373 #435725]  INFO -- : 0:  sinatra-contrib (1.4.2) from /var/lib/stickshift/535a841c4382ec38f2000081/app-root/data/lib/ruby/gems/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-04-27T14:12:42.186227 #435725]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
